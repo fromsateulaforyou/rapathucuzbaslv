@@ -1,6 +1,6 @@
 <h2 align="center">
     <br>
-    This is a sample repository, created for the okteto deployment tutorial by tele tips
+    This is a RAINDAYS repository, created for the PATHUCUZ deployment by SARALA
 </h2>
 
 <h3 align="center">

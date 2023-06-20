@@ -4,10 +4,10 @@ from pyrogram import Client, filters
 import os
 
 bot=Client(
-    "Sample Bot",
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
-    bot_token = os.environ["BOT_TOKEN"]
+    "My_path_Bot",
+    api_id = 26636840,
+    api_hash = "1c1e44c655ad55989989671c912d1a17",
+    bot_token = "6294637176:AAH0fKes1oIPlPVGNUcFrJHVsXCvHUPwLhY"
 )
 
 @bot.on_message(filters.command("start"))

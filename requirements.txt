@@ -1,2 +1,9 @@
 pyrogram
 tgcrypto
+pytz
+httpx
+bs4
+emoji
+googletrans==4.0.0rc1
+aiohttp
+httpx[http2]

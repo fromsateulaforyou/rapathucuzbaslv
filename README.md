@@ -5,6 +5,6 @@
 
 <h3 align="center">
     <br>
-    <img src="./resources/okteto.png" alt="okteto icon" width="75">
+    <img src="./resources/DALL_E_2023-04-18_12.19.58_-_stary_night_art_pixel-removebg-preview.png" alt="Pathucuz" width="75">
 </h3>
 
